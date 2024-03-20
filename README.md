@@ -27,9 +27,9 @@ I'm a results-oriented Data Analyst and Data Engineer with a demonstrated abilit
 
 **🎓 Education**
 
-* **M.S. Computer and Information Sciences:** Slavonic University Moldova (2017-2019)
-* **B.B.A. Business Administration and Management:** Slavonic University Moldova (2012-2017)
-* **Google Data Analytics Certificate:** 2023
+* **M.S. Computer and Information Sciences:**
+* **B.B.A. Business Administration and Management:**
+* **Google Data Analytics Certificate:**
 * **Data Engineering Certificate:** Yandex Practicum (In Progress)
 
 **💬 Languages**
