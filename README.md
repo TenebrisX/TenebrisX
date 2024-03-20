@@ -1,5 +1,6 @@
-## **Bar Kotlyarov** | Data Analyst & Data Engineer
-[LinkedIn](https://www.linkedin.com/in/kotlyarov-bar/) 
+## **Bar Kotlyarov** | Data Analyst & Data Engineer 
+
+### [LinkedIn](https://www.linkedin.com/in/kotlyarov-bar/) 
 
 ✉️ **kotlyarov.bar@gmail.com**
 
