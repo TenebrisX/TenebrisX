@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=30&duration=4000&pause=1000&color=589FF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi!+I'm+Kotlyarov+Bar;Data+Analyst+%26+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=30&duration=4000&pause=1000&color=589FF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi!+I'm+Bar!;Data+Analyst+%26+Data+Engineer)](https://git.io/typing-svg)
 
 ## About Me:
 
