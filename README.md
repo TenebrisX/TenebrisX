@@ -27,9 +27,9 @@ I'm a results-oriented Data Analyst and Data Engineer with a demonstrated abilit
 
 **🎓 Education**
 
-* **M.S. Computer and Information Sciences:**
-* **B.B.A. Business Administration and Management:**
-* **Google Data Analytics Certificate:**
+* **M.S. Computer and Information Sciences**
+* **B.B.A. Business Administration and Management**
+* **Google Data Analytics Certificate**
 * **Data Engineering Certificate:** Yandex Practicum (In Progress)
 
 **💬 Languages**
