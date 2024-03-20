@@ -1,14 +1,10 @@
-## **Bar Kotlyarov** | Data Analyst & Data Engineer 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=30&duration=4000&pause=1000&color=589FF7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi!+I'm+Kotlyarov+Bar;Data+Analyst+%26+Data+Engineer)](https://git.io/typing-svg)
 
-### [LinkedIn](https://www.linkedin.com/in/kotlyarov-bar/) 
+## About Me:
 
-✉️ **kotlyarov.bar@gmail.com**
+I'm the kind of data professional who loves digging into the numbers! Whether it's streamlining a process, making forecasts that drive better decision-making, building data pipelines, or optimizing processes. I'm passionate about using data to make a real difference.
 
-**🎯 Data-Driven Professional Delivering Impact**
-
-I'm a results-oriented Data Analyst and Data Engineer with a demonstrated ability to translate raw data into actionable insights. My background allows me to  streamline operations, reduce costs, and enhance decision-making processes.  I'm eager to make a tangible impact in your data-driven environment. 
-
-**🛠️ Technical Toolkit**
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b>  Technical Toolkit</b>
 
 * **Data Manipulation:** SQL, NoSQL, Python, Excel
 * **Big Data:** Spark, Hadoop, Vertica
@@ -18,13 +14,17 @@ I'm a results-oriented Data Analyst and Data Engineer with a demonstrated abilit
 * **Databases:** PostgreSQL, MongoDB
 * **Other:**  Java, Docker, Bash Script, Jupiter, VSCode
 
-**🎓 Education**
+### 🎓 Education
 
 * **M.S. Computer and Information Sciences**
 * **B.B.A. Business Administration and Management**
 * **Google Data Analytics Certificate**
 * **Data Engineering Certificate:** Yandex Practicum (In Progress)
 
-**Let's Connect!**
+### Let's Connect!
 
 I'm actively seeking a challenging Data Analyst or Data Engineer role where I can contribute to impactful projects while continuing to grow my skills.
+
+<a href="https://www.linkedin.com/in/kotlyarov-bar/"><img alt="Linkedin" title="Bar Kotlyarov Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kotlyarov.bar@gmail.com"><img alt="Gmail" title="Bar Kotlyarov Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://t.me/KotlyarovBar"><img alt="Telegram" title="Kotlyarov Bar Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
