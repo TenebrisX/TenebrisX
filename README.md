@@ -4,6 +4,9 @@
 
 I'm the kind of data professional who loves digging into the numbers! Whether it's streamlining a process, making forecasts that drive better decision-making, building data pipelines, or optimizing processes. I'm passionate about using data to make a real difference.
 
+### 💼 Professional Experience
+**[SmartStone](https://smartstone.md/en/)** | Data Analyst & Engineer | Jan 2023 - Present
+
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b>  Technical Toolkit</b>
 
 * **Data Manipulation:** SQL, NoSQL, Python, Excel
@@ -18,8 +21,13 @@ I'm the kind of data professional who loves digging into the numbers! Whether it
 
 * **M.S. Computer and Information Sciences**
 * **B.B.A. Business Administration and Management**
-* **Google Data Analytics Certificate**
+* [**Google Data Analytics Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/3SD2K3FDZGXA)
 * **Data Engineering Certificate:** Yandex Practicum (In Progress)
+
+### 🚀 Explore my projects:
+⚙️ [Data Engineering](https://github.com/TenebrisX/Data-Engineering-Projects/tree/main)<br>
+📈 [Data Analysis](https://github.com/TenebrisX/Data-Engineering-Projects/tree/main)<br>
+📊 [Tableau Visualizations](https://public.tableau.com/app/profile/boris.kotlyarov/vizzes)
 
 ### Let's Connect!
 
@@ -27,4 +35,4 @@ I'm actively seeking a challenging Data Analyst or Data Engineer role where I ca
 
 <a href="https://www.linkedin.com/in/kotlyarov-bar/"><img alt="Linkedin" title="Bar Kotlyarov Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:kotlyarov.bar@gmail.com"><img alt="Gmail" title="Bar Kotlyarov Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://t.me/KotlyarovBar"><img alt="Telegram" title="Kotlyarov Bar Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
+<a href="https://t.me/KotlyarovBar"><img alt="Telegram" title="Bar Kotlyarov Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
