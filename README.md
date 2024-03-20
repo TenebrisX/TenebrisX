@@ -6,15 +6,7 @@
 
 **🎯 Data-Driven Professional Delivering Impact**
 
-I'm a results-oriented Data Analyst and Data Engineer with a demonstrated ability to translate raw data into actionable insights. My background allows me to  streamline operations, reduce costs, and enhance decision-making processes.  I'm eager to make a tangible impact in your data-driven environment.
-
-**✅ Key Achievements at Smartstone.md**
-
-* **Optimized Production:** Slashed costs by 15% through meticulous analysis of production data.
-* **Enhanced Decision-Making:** Developed real-time KPI dashboard for improved visibility.
-* **Boosted Quality Control:** Reduced defective products by 24% with a data-centric quality approach.
-* **Maximized Supplier Value:** Saved 10% on material costs with strategic supplier recommendations.
-* **Increased Manufacturing Efficiency:** Improved cycle time by 18% through process analysis. 
+I'm a results-oriented Data Analyst and Data Engineer with a demonstrated ability to translate raw data into actionable insights. My background allows me to  streamline operations, reduce costs, and enhance decision-making processes.  I'm eager to make a tangible impact in your data-driven environment. 
 
 **🛠️ Technical Toolkit**
 
@@ -32,13 +24,6 @@ I'm a results-oriented Data Analyst and Data Engineer with a demonstrated abilit
 * **B.B.A. Business Administration and Management**
 * **Google Data Analytics Certificate**
 * **Data Engineering Certificate:** Yandex Practicum (In Progress)
-
-**💬 Languages**
-
-* Hebrew (Native)
-* Russian (Native)
-* English (Full Professional Proficiency)
-* Romanian (Intermediate)
 
 **Let's Connect!**
 
