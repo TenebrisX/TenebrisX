@@ -26,7 +26,7 @@ I'm the kind of data professional who loves digging into the numbers! Whether it
 
 ### 🚀 Explore my projects:
 ⚙️ [Data Engineering](https://github.com/TenebrisX/Data-Engineering-Projects/tree/main)<br>
-📈 [Data Analysis](https://github.com/TenebrisX/Data-Engineering-Projects/tree/main)<br>
+📈 [Data Analysis](https://github.com/TenebrisX/Data-Analytics-Projects)<br>
 📊 [Tableau Visualizations](https://public.tableau.com/app/profile/boris.kotlyarov/vizzes)
 
 ### Let's Connect!
