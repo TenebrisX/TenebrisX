@@ -10,12 +10,12 @@ I'm the kind of data professional who loves digging into the numbers! Whether it
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b>  Technical Toolkit</b>
 
 * **Data Manipulation:** SQL, NoSQL, Python, Excel
-* **Big Data:** Spark, Hadoop, Vertica
+* **Big Data:** Spark, Hadoop, Vertica, Redis
 * **Cloud Technologies:** AWS
 * **Visualization:** Tableau, Metabase 
 * **Workflows:** Airflow
 * **Databases:** PostgreSQL, MongoDB
-* **Other:**  Java, Docker, Bash Script, Jupiter, VSCode
+* **Other:**  Java, Docker, Kubernetes, Bash Script, Jupiter, VSCode
 
 ### 🎓 Education
 
