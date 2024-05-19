@@ -1,4 +1,4 @@
-## Hi! Im Bar! Data Engineer & Data Analyst
+## Hi! I'm Bar. Data Engineer & Data Analyst
 
 ## About Me:
 
