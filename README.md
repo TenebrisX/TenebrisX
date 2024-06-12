@@ -23,8 +23,8 @@ I'm the kind of data professional who loves digging into the numbers! Whether it
 * **B.B.A. Business Administration and Management**<br><br>
 * [**DataCamp Data Engineer Associate Certificate**](https://www.datacamp.com/certificate/DEA0011222019267)
 * [**Google Data Analytics Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/3SD2K3FDZGXA)
-* **Data Engineering Certificate:** Yandex Practicum (In Progress)
-
+* **Data Engineering Certificate:** Yandex Practicum
+  
 ### 🚀 Explore my projects:
 ⚙️ [Data Engineering](https://github.com/TenebrisX/Data-Engineering-Projects/tree/main)<br>
 📈 [Data Analysis](https://github.com/TenebrisX/Data-Analytics-Projects)<br>
