@@ -32,7 +32,7 @@ I'm the kind of data professional who loves digging into the numbers! Whether it
 
 ### Let's Connect!
 
-I'm actively seeking a challenging Data Analyst or Data Engineer role where I can contribute to impactful projects while continuing to grow my skills.
+I'm actively seeking a challenging Data Engineer role where I can contribute to impactful projects while continuing to grow my skills.
 
 <a href="https://www.linkedin.com/in/kotlyarov-bar/"><img alt="Linkedin" title="Bar Kotlyarov Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:kotlyarov.bar@gmail.com"><img alt="Gmail" title="Bar Kotlyarov Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
